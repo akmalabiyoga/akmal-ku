@@ -43,7 +43,11 @@ import streamlit as st
 
 def main():
     st.write('Minimal Example')
-    st.header('This is Header')
+    st.header('Halaman Streamlit Akmal')
+    st.subheader('This is SubHeader')
+    st.markdown('# Rendering Markdown ')
+    st.write('Some Phytagorean Equation : ')
+    st.latex('C^2 = a^2+B^2')
 
 if __name__ == '__main__':
     main()
