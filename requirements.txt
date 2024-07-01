@@ -5,4 +5,3 @@ streamlit-aggrid
 numpy
 scikit-learn
 matplotlib==3.5.2
-pickle
