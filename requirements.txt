@@ -1,4 +1,7 @@
-streamlit
-streamlit-aggrid
 altair
 pandas
+streamlit
+streamlit-aggrid
+numpy
+scikit-learn
+matplotlib==3.5.2
